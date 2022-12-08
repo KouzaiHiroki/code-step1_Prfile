@@ -33,10 +33,14 @@ li {
     padding: 10px 0;
 }
 
-.header-list li {
-    color:black;
+.header-list li  a{
+    color: #24292e;
     float: right;
     margin-left: 30px;
+}
+
+.header-list li a:hover {
+    opacity: 0.7;
 }
 
 .top-wrapper {
