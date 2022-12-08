@@ -39,8 +39,8 @@ li {
     margin-left: 30px;
 }
 
-.mainphoto {
-    object-fit: cover;
+.top-wrapper {
+    background-image: url(image\mainvisual.jpg);
+    background-size: cover;
     margin-bottom: 80px;
-
 }
