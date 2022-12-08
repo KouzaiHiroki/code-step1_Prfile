@@ -40,7 +40,9 @@ li {
 }
 
 .top-wrapper {
-    background-image: url(image\mainvisual.jpg);
-    background-size: cover;
     margin-bottom: 80px;
+}
+
+.topphoto {
+    object-fit: cover;
 }
