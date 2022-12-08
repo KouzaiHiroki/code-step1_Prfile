@@ -32,7 +32,8 @@ li {
     float: left;
     width: 120px;
     height: 40px;
-    padding: 10px 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .header-list li  a{
