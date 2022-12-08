@@ -1,0 +1,48 @@
+@charset "UTF-8";
+
+
+html {
+    font-size: 100%;
+}
+
+body {
+    color: #383e45;
+    font-size: 0.9rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+.container {
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.header-logo {
+    width: 120px;
+    line-height: 1px;
+    padding: 10px 0;
+}
+
+.header-list a {
+    float:right;
+    list-style:none;
+}
+
