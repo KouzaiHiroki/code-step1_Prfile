@@ -5,3 +5,9 @@
     height: 40px;
     padding:10px 0;
 }
+
+.header-list li {
+    color:black;
+    float:right;
+    list-style: none;
+}
