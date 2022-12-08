@@ -32,9 +32,12 @@ li {
     width: 120px;
 }
 
-.header-logo-list li  a{
+.header-logo-list li {
     display: block;
     float: right;
+}
+
+.header-logo-list li  a{
     color: #24292e;
     margin-left: 30px;
 }
