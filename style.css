@@ -1,7 +1,11 @@
 @charset "UTF-8";
 
+.container {
+    max-width: 960px;
+}
+
 .logo {
-    width:120px;
+    width: 120px;
     height: 40px;
     padding:10px 0;
 }
