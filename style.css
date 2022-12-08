@@ -30,10 +30,13 @@ li {
     width: 120px;
 }
 
-.header-logo-list li  a{
+.header-logo-list {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+.header-logo-list li  a{
     color: #24292e;
     margin-left: 30px;
 }
