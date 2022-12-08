@@ -36,13 +36,13 @@ li {
     padding-bottom: 10px;
 }
 
-.header-list li  a{
+.header-logo-list li  a{
     color: #24292e;
     float: right;
     margin-left: 30px;
 }
 
-.header-list li a:hover {
+.header-logo-list li a:hover {
     opacity: 0.7;
 }
 
