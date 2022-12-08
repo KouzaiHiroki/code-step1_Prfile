@@ -29,7 +29,6 @@ li {
 }
 
 .logo {
-    float: left;
     width: 120px;
     height: 40px;
     padding-top: 10px;
@@ -38,7 +37,6 @@ li {
 
 .header-logo-list li  a{
     color: #24292e;
-    float: right;
     margin-left: 30px;
 }
 
