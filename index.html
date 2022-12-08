@@ -1,32 +1,46 @@
-<!DOCTYPE html>
-<html lang="ja">
-    <head>
-        <meta charset="utf-8">
-        <link rel="stylesheet" href="style.css">
-        <link rel="shortcut icon" href="image\favicon.ico">
-        <title>Profile</title>
-    </head>
-    <body>
-        <header>
-            <div class="container">
-                <div class="hedaer-logo">
-                    <img src="image\logo.svg" class="logo">
-                </div>
-                <div class="header-list">
-                    <ul>
-                        <li><a href=#About>About</a></li>
-                        <li><a href=#Bicycle>Bicycle</a></li>
-                    </ul>
-                </div>
-            </div>
-        </header>
-        <div class="main">
-            <div class="top-wrapper">
-                <div class="container">
-                    <img src="image\mainvisual.jpg" class="mainphoto">
-                </div>
-            </div>
-        </div>
+@charset "UTF-8";
 
-    </body>
-</html>
+html {
+    font-size: 100%;
+}
+
+body {
+    color: #383e45;
+    font-size: 0.9rem;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    max-width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+.container {
+    max-width: 960px;
+    margin:0 auto;
+}
+
+.logo {
+    float: left;
+    width: 120px;
+    height: 40px;
+    padding: 10px 0;
+}
+
+.header-list li {
+    color:black;
+    float: right;
+    margin-left: 30px;
+}
+
+.top-wrapper {
+    background-image: url(image\mainvisual.jpg);
+    background-size: cover;
+    margin-bottom: 80px;
+}
