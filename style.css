@@ -52,7 +52,7 @@ li {
 }
 
 
-.header-logo-list li a:hover {
+.header-logo-list li:hover {
     opacity: 0.7;
 }
 
