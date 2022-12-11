@@ -28,6 +28,9 @@ li {
 
 .logo {
     width: 120px;
+    display:block;
+    line-height: 1px;
+    padding: 10px 0;
 }
 
 .header-logo-list {
