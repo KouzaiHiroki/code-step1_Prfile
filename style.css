@@ -27,8 +27,13 @@ li {
     text-align: center;
 }
 
+.site-title {
+  width: 120px;
+  line-height: 1px;
+  padding: 10px 0;
+}
+
 .logo {
-    width: 120px;
     display:block;
 }
 
