@@ -38,7 +38,7 @@ li {
     display:block;
 }
 
-.header-logo-list {
+header {
     display: flex;
     justify-content: space-between;
     align-items: center;
