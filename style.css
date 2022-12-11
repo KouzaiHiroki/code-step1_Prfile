@@ -51,6 +51,7 @@ li {
 }
 
 .header-logo-list li a {
+    display:flex;
     color: #24292e;
 }
 
