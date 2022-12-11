@@ -29,7 +29,7 @@ li {
     display:block;
 }
 
-header {
+#header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -43,16 +43,16 @@ header {
   text-align: center;
 }
 
-.wrapper ul {
+#header ul {
     display: flex;
 }
 
-.wrapper li a {
+#header li a {
     margin-left: 30px;
     color: #24292e;
 }
 
-.wrapper li a:hover {
+#header li a:hover {
     opacity: 0.7;
 }
 
