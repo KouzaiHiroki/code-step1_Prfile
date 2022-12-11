@@ -23,8 +23,6 @@ li {
 
 .site-title {
   width: 120px;
-  line-height: 1px;
-  padding: 10px 0;
 }
 
 .site-title a {
@@ -47,7 +45,6 @@ header {
 
 .wrapper ul {
     display: flex;
-    padding: 10px 0
 }
 
 .wrapper li a {
