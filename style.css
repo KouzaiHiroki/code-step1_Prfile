@@ -37,12 +37,20 @@ li {
     margin: 0 auto;
 }
 
+.header-logo-list ul {
+    display: flex;
+    padding: 10px 0
+}
+
 .header-logo-list li {
-    color: #24292e;
     margin-left: 30px;
 }
 
-.header-logo-list li:hover {
+.header-logo-list li a {
+    color: #24292e;
+}
+
+.header-logo-list li:hover a {
     opacity: 0.7;
 }
 
