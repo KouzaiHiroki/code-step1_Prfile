@@ -46,13 +46,15 @@ li {
     padding: 10px 0
 }
 
-.header-logo-list li {
+.header-logo-list li a {
     margin-left: 30px;
+}
+
+.header-logo-list a {
     color: #24292e;
 }
 
-
-.header-logo-list li:hover {
+.header-logo-list li a:hover {
     opacity: 0.7;
 }
 
