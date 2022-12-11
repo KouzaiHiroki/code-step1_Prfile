@@ -44,11 +44,8 @@ li {
     padding: 10px 0
 }
 
-.header-logo-list li {
+.header-logo-list li a {
     margin-left: 30px;
-}
-
-.header-logo-list a {
     color: #24292e;
 }
 
