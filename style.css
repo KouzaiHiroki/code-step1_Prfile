@@ -45,17 +45,17 @@ header {
   text-align: center;
 }
 
-header ul {
+.wrapper ul {
     display: flex;
     padding: 10px 0
 }
 
-header li a {
+.wrapper li a {
     margin-left: 30px;
     color: #24292e;
 }
 
-header li a:hover {
+.wrapper li a:hover {
     opacity: 0.7;
 }
 
