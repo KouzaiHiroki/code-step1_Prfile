@@ -28,14 +28,7 @@ li {
 }
 
 .site-title a {
-    display:block;
-}
-
-#header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin: 0 auto;
+  display: block;
 }
 
 .wrapper {
@@ -43,6 +36,13 @@ li {
   margin: 0 auto 100px auto;
   padding: 0 4%;
   text-align: center;
+}
+
+#header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
 }
 
 #header ul {
