@@ -43,7 +43,7 @@ li {
   justify-content: space-between;
   align-items: center;
   margin: 0 auto;
-  potision:fixed;
+  position: fixed;
   z-index:10;
 }
 
