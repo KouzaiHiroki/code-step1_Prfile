@@ -50,8 +50,11 @@ li {
   padding: 10px 0;
 }
 
+#header li {
+    margin-left: 30px;        
+}
+
 #header li a {
-    margin-left: 30px;
     color: #24292e;
 }
 
