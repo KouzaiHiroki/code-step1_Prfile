@@ -38,11 +38,6 @@ li {
   text-align: center;
 }
 
-header {
-  position: fixed;
-  z-index:10;
-}
-
 #header {
   display: flex;
   justify-content: space-between;
