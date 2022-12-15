@@ -43,6 +43,8 @@ li {
   justify-content: space-between;
   align-items: center;
   margin: 0 auto;
+  potision:fixed;
+  z-index:10;
 }
 
 #header ul {
